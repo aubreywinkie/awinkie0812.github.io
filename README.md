@@ -7,4 +7,4 @@
 
 #### Here is a picture of my dog.
 
-[Cauchy](images/IMG__079.jpg)
+![[Cauchy](images/IMG__079.jpg)]
